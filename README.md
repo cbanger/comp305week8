@@ -7,7 +7,7 @@ A small number of (3-4) errors have been deliberately introduced to the code.
 
 TODO:
     -   Open the project in NetBeans.    
-    -   Read and document all of the code. 
+    -   Read and document all of the code.   
     -   Run the project.    
     -   Check the output window for any error messages.
     -   Identify and fix the problems that cause the error messages.      
