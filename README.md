@@ -6,7 +6,7 @@ The project uses the sample travel MySQL database that comes with NetBeans.
 A small number of (3-4) errors have been deliberately introduced to the code.
 
 TODO: 
-    Open the project in NetBeans
+    Open the project in NetBeans.
     Read and document all of the code. 
     Run the project.  
     Check the output window for any error messages.
